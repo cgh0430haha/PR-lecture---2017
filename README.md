@@ -4,7 +4,7 @@
 
 [conventional method]
 
-
+convecntional method is implemented by Matlab
 
 [deep learning - implementation detail]
 
